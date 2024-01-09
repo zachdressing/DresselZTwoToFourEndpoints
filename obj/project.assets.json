@@ -469,19 +469,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zed_d\\.nuget\\packages\\": {}
+    "C:\\Users\\Aiden\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zed_d\\Desktop\\Codestack Academy StuffnSuch\\Projects\\WIP\\DresselZTwoToFourEndpoints\\DresselZTwoToFourEndpoints.csproj",
+      "projectUniqueName": "C:\\Users\\Aiden\\Desktop\\Codestack\\GithubRepos\\Zach'sRepo\\DresselZTwoToFourEndpoints\\DresselZTwoToFourEndpoints.csproj",
       "projectName": "DresselZTwoToFourEndpoints",
-      "projectPath": "C:\\Users\\zed_d\\Desktop\\Codestack Academy StuffnSuch\\Projects\\WIP\\DresselZTwoToFourEndpoints\\DresselZTwoToFourEndpoints.csproj",
-      "packagesPath": "C:\\Users\\zed_d\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zed_d\\Desktop\\Codestack Academy StuffnSuch\\Projects\\WIP\\DresselZTwoToFourEndpoints\\obj\\",
+      "projectPath": "C:\\Users\\Aiden\\Desktop\\Codestack\\GithubRepos\\Zach'sRepo\\DresselZTwoToFourEndpoints\\DresselZTwoToFourEndpoints.csproj",
+      "packagesPath": "C:\\Users\\Aiden\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aiden\\Desktop\\Codestack\\GithubRepos\\Zach'sRepo\\DresselZTwoToFourEndpoints\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\zed_d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Aiden\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
