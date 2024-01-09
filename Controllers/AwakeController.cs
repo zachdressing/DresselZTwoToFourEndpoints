@@ -16,7 +16,7 @@ public class AwakeController : ControllerBase
 
     [HttpGet]
     [Route("Awake")]
-    public string awake(int hours, int mins, string name){
-        return _awakeService.awake(hours, mins,name);
+    public string awake(int time, string name){
+        return _awakeService.awake(time,name);
     }
 }
